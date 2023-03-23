@@ -72,3 +72,14 @@ section{
 	margin: 0px 0px 20px 0px;
 	
 }
+
+.a{
+	background-color: rebeccapurple;
+	color: white;
+	padding: 8px 15px 8px 15px;
+	margin-left: 10px;
+}
+
+ul>li:last-child{
+	margin-right: 0px;
+}
